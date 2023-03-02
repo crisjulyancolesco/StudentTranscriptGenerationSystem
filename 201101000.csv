@@ -1,0 +1,14 @@
+Level,Degree,Term,CourseName,CourseID,CourseType,CreditHours,Grade
+G,D1,1,CourseI1,CI1,Major,4,97
+G,D1,1,CourseI2,CI2,Minor,3,87
+G,D1,1,CourseI3,CI3,Major,4,75
+G,D1,1,CourseI4,CI4,Major,4,86
+G,D1,1,CourseI5,CI5,Minor,3,83
+G,D1,2,CourseI6,CI6,Major,3,89
+G,D1,2,CourseI7,CI7,Major,4,87
+G,D1,2,CourseI8,CI8,Minor,3,88
+G,D1,3,CourseI9,CI9,Minor,3,83
+G,D1,3,CourseI10,CI10,Minor,4,91
+G,D1,3,CourseI11,CI11,Major,4,76
+G,D1,4,CourseI12,CI12,Major,4,83
+G,D1,4,CourseI13,CI13,Minor,3,90
